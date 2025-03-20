@@ -2,9 +2,9 @@
 This is the repository for the code used in the MATH3713 Project Report "Scaling Wind Farm Layout Optimisation to Meet UK Energy Demands". Please refer to the following setup to enable the code works as intended:
 
 # For code labelled with (PyWake):
- - Create a new environment in the Anaconda Powershell Prompt
-       conda update --all
-       conda activate
+Create a new environment in the Anaconda Powershell Prompt \\
+       conda update --all \\
+       conda activate \\
 The environment should now show (conda)   
        conda create --name pywake_env python
        conda activate pywake_env
