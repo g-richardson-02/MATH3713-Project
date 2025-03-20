@@ -20,7 +20,7 @@ install PyWake library into the environment
         
   OR
   
-        pip install pywake
+        pip install py_wake
         
 The environment should now contain PyWake, this can be checked through:
 
