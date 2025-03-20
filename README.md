@@ -34,7 +34,7 @@ The directory should now show the file location, then to run the file:
 
        python filename.py
 
-The code has print functions for each step in the algorithm, as to show the code is running as expected. For more computationally demanding code/layouts please allow some time for this to work.
+The code has print functions for each step in the algorithm, as to show the code is running as expected. For more computationally demanding code/layouts please allow some time for this to work. Please make sure to download the "power_thrust_mos.csv" file, as it is used in these scripts.
 
 
 # For files WITHOUT (PyWake):
