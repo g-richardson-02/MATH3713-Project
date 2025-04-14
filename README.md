@@ -1,5 +1,5 @@
 # MATH3713-Project
-This is the repository for the code used in the MATH3713 Project Report "Scaling Wind Farm Layout Optimisation to Meet UK Energy Demands". Please refer to the following setup to enable the code works as intended:
+This is the repository for the code used in the MATH3713 Project Report "Scaling Wind Farm Layout Optimisation to Meet UK Energy Demands". The report can be read from the PDF file "MATH3713_Report_10745319_Final". Please refer to the following setup to enable the code works as intended:
 
 # For code labelled with (PyWake):
 Create a new environment in the Anaconda Powershell Prompt
